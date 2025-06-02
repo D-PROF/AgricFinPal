@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'AgricFinPal',
-  description: 'Created with v0',
+  description: 'Empowering Farmers with Financial Tools',
   generator: 'v0.dev',
 }
 
