@@ -67,7 +67,7 @@ export default function LandingPage() {
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
                       src="/farmm.jpg"
-                      alt="Farmers working in a modern greenhouse with rows of organic vegetables"
+                      alt="farmm"
                       width={550}
                       height={310}
                       className="object-cover w-full h-auto"
@@ -231,8 +231,8 @@ export default function LandingPage() {
                   <div className="absolute -inset-1 rounded-xl bg-white/20 opacity-50 blur-xl"></div>
                   <div className="relative rounded-xl overflow-hidden shadow-2xl w-full">
                     <Image
-                      src="/smilingg1.jpg"
-                      alt="Farmer using modern equipment to maintain crops"
+                      src="/smilingg.jpg"
+                      alt="smilingg"
                       width={600}
                       height={400}
                       className="object-cover w-full h-auto"
